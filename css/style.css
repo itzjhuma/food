@@ -4503,7 +4503,7 @@ display: ;
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #ffa500;
   pointer-events: none;
   cursor: default;
 }
@@ -7064,7 +7064,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #052049 !important;
+  background-color: #ffb366 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,

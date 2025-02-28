@@ -40,10 +40,8 @@
                 <div class="navbar-nav font-weight-bold mx-auto py-0 text-left">
                     <a href="index.php"  class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
                     <a href="about.php"  class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-                    <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  ADVISORY BOARD </a>
-                    <a href="center.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CENTER </a>
-                    <a href="course.php"  class="nav-item nav-link"> <i class="fa-brands fa-discourse"></i> COURSES </a>
-                    
+                    <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
+                    <a href="center.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a> 
                 </div>
             </div>
             </nav>
