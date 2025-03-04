@@ -38,10 +38,13 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between"  id="navbarCollapse">
                 <div class="navbar-nav font-weight-bold mx-auto py-0 text-left">
-                    <a href="index.php"  class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
-                    <a href="about.php"  class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-                    <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
-                    <a href="center.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a> 
+                 <a href="index.php"  class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
+                <a href="about.php"  class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
+                <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
+                <a href="center.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-facebook"></i></a>
+                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-square-instagram"></i></a>
+                <a href="=+919932069297"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-square-whatsapp"></i></a> 
                 </div>
             </div>
             </nav>
