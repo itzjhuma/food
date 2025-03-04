@@ -51,7 +51,7 @@
 <!-- ********* Header *********-->
 <!-- *****Banner ********-->
 <div class="title-heading-w3 text-center mx-auto my-4 mb-5 pb-sm-4">
-<h3 class="title-main"><span>Mission & Vision of our Trust</span></h3>
+<h3 class="title-main"><span>Our Vision Your Trust</span></h3>
 </div>
 <div class="container  my-2 ">
 <img class="img-round-all" src="briyani.jpg" alt="about us" style="width: 100%; height: 300px">
@@ -62,13 +62,19 @@
 <!-- Background Info *****-->
 <div>
 <div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Background Information</strong></h2>
+<h2 style="text-align: center; color: #052049;"><strong>Delivering a royal feast to your doorsteps</strong></h2>
 </div>
 <div class="container  text-blue">
 
-<p style="text-align: justify;">After independence the economic regeneration of India was vitally influenced by rapid industrialization. Many new industries came into existence and the old were renovated and expanded which brought to focus the need for right type of skilled manpower to be developed through formal and systematic industrial training programmes. Consequently about 356 Industrial Training Institutes with a training capacity of about 1.5 lakh in various engineering and non-engineering trades were gradually setup by the end of 1962 under Craftsmen Training Scheme which was further supplemented by the Apprenticeship Training Scheme under the Apprentices Act 1961 for on the job training to meet the growing need of the industries.
+<p style="text-align: justify;"><b>BBK</b> – India’s most loved Biryani & Kebab delivery chain since <b>2015.</b><br>
 
-Subsequently many more ITIs both Govt and private affiliated came into existence. But considering the huge quality requirement of such skilled manpower due to technological upgradation in industries as well as the rapid growth of population in the country only the Govt ITIs were not sufficient to cater to the entire requirement of industries, thereby, some private training institutes came into existence for providing training to the educated youth of the country. Moreover due to some rigid admission criteria in it is, a good section of the youth who were deprived of getting the scope of admission into ITIs were given scope for training in private institutes. </p>
+
+Being the Pioneers of delivering Fresh Dum-Cooked Handi Biryanis across the country, Biryani By Kilo takes customer experience up a notch with unique and authentic shaahi andaaz of serving handis of melting flavors. The first ones to introduce ‘handi biryani’ concept and deliver freshly prepared biryani for individual orders.<br><br>
+
+
+With the presence of 70+ royal dine-in outlets pan India, we have spread arms across 29+ cities - Delhi NCR, Mumbai, Pune, Lucknow, Kolkata, Punjab, Jaipur, Bhubaneswar, Patna, Ranchi,Guwahati, Jamshedpur, Goa & Bangalore, reviving the royal traditions in the hearts of India. Also, we deliver to your doorstep online in 70-90 minutes, after cooking it with time, effort and elegance.
+
+ </p>
 </div>
 </div>
 <!-- Background Info *****-->
@@ -76,11 +82,15 @@ Subsequently many more ITIs both Govt and private affiliated came into existence
 <!-- Creation of Trust *****-->
 <div>
 <div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Creation of Trust</strong></h2>
+<h2 style="text-align: center; color: #052049;"><strong>Our Mission</strong></h2>
 </div>
 <div class="container  text-blue">
 
-<p style="text-align: justify;"> Proyash Educational & Social Trust is a registered Trust organisation, The trust was created in the memory of Late Monoranjan Hazra who was a writer, critic, social worker, a freedom fighter who had more than 10 year confinements in British era for Indian freedom movement and a member of State Legislature and Indian Parliament from 1952 to 1982. His whole life was spent for the development of backward class of people especially the peasant and industrial workers of the society. To honour his noble activities and sacrifice the Trust aims to continue his mission to provide professional courses and skill development in the field of technical education to the youths & upcoming students of the society. With the help of highly qualified and experienced members of the Advisory Board and an equally qualified and experienced faculty, our initiative is to provide quality education and vocational training to train our students for the development of competitive skill and knowledge of technology for the present and future needs. </p>
+<p style="text-align: justify;"> Reviving the essence of dum cooking in organic handis with epic flavors of India- Hyderabadi, Lucknowi, Kolkata, Guntur, and Nilgiri Biryani, Melt-in-mouth Kababs, Lazeez Kormas, Dal Makhani, Phirni & much more; we embellish a royal feast experience to our guests.<br><br>
+
+BBK delivers both authentic taste of Hyderabadi (Kutchi) and Lucknowi (Pukki) Biryani prepared in individual earthen Handis with the freshest ingredients.
+
+ </p>
 </div>
 </div>
 <!-- Creation of Trust *****-->

@@ -58,13 +58,13 @@
             <a href="index.php" class="text-reset">HOME</a>
           </p>
           <p>
-            <a href="center.php" class="text-reset">CENTER</a>
+            <a href="center.php" class="text-reset">ABOUT US</a>
           </p>
           <p>
-            <a href="course.php" class="text-reset">COURSES</a>
+            <a href="course.php" class="text-reset">SERVICE CARD</a>
           </p>
           <p>
-            <a href="notice.php" class="text-reset">NOTICE</a>
+            <a href="notice.php" class="text-reset">CONTACT US</a>
           </p>
         </div>
         <!-- Grid column -->
@@ -76,7 +76,7 @@
           <p><i class="fas fa-home  me-3"></i>&nbsp; BURDWAN</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
-           &nbsp; info@proyash.org.in
+           &nbsp;hungerypeople@gamil.com
           </p>
           <p><i class="fas fa-phone me-3"></i> + 91 9932069297</p>
           <p><i class="fas fa-print me-3"></i> + 0342 2560 398</p>
@@ -89,7 +89,7 @@
           <h6 class="text-uppercase fw-bold mb-4"><u>
             About Us </u></h6>
           <p class="text-left ">
-            Proyash Technical Training Institute is a further steps to impart vocational training in the field Specialised focus on Air-condition, Automobile, Electrical & Electronics, Solar System, Civil, Computer Hardware and Computer software Engineering.
+            gdsgdsjgddgdkgfioue9;uaouedslkhcdnjbchjcbhjsbgugdeugtdgxzbhbsjnkkxlxlkjgfugbcndsmkdijbdmmx..knjsjhdhbbbsbdshydgbmmxxnjjnfm nhnjdndbnbhdhdxxnnshdshbb vgvvbbx xnznkhdhff.
           </p>
         </div>
         <!-- Grid column -->
@@ -102,7 +102,7 @@
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 - <?php echo date("Y");?> Copyright:
-    <a class="text-reset fw-bold" href="">Proyash Educational & Social Trust</a>
+    <a class="text-reset fw-bold" href="">Food with Fun22</a>
   </div>
   <!-- Copyright -->
 </footer>
