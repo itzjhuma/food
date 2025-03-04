@@ -42,9 +42,10 @@
                 <a href="about.php"  class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
                 <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
                 <a href="center.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
-                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-facebook"></i></a>
-                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-square-instagram"></i></a>
-                <a href="=+919932069297"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-square-whatsapp"></i></a> 
+                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-facebook" style="color: #18578c;"></i></a>
+                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-instagram" style="color: #8e1f30;"></i></a>
+                <a href="=+919932069297"  class="nav-item nav-link active text-blue"><i class="fa-brands fa-whatsapp" style="color: #24bc8a;"></i></a>
+                <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-solid fa-envelope"></i></a> 
                 </div>
             </div>
             </nav>
