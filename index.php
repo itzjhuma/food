@@ -37,7 +37,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-between"  id="navbarCollapse">
-                <div class="navbar-nav font-weight-bold mx-auto py-0 text-left">
+                <div class="navbar-nav font-weight-bold mx-auto py-0 text-left" >
                  <a href="index.php"  class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
                 <a href="about.php"  class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
                 <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
