@@ -30,6 +30,7 @@
 <?php include ("header.php");?>
 
 <!-- Navigator bar -->
+ <!--
 
 <div class="container-fluid bg-dark position-relative shadow ">
              <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0  px-lg-5">
@@ -48,9 +49,44 @@
                 <a href="#"  class="nav-item nav-link active text-blue"><i class="fa-solid fa-envelope"></i></a> 
                 </div>
             </div>
-            </nav>
+            </nav> 
 
-        </div>
+        </div> -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.php"><i class="fa-solid fa-house-user"> </i> Home </a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="about.php"> <i class="fa-solid fa-address-card"></i> ABOUT US</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="Board.php"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link disabled" href="center.php"> <i class="fa-solid fa-chess-board"></i> SERVICE</a>
+      </li>
+      <ul class="nav justify-content-end">
+  <li class="nav-item">
+    <a class="nav-link active" href="#"> <i class="fa-brands fa-facebook" style="color: #18578c;"></i></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#"><i class="fa-brands fa-instagram" style="color: #8e1f30;"></i></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#"><i class="fa-brands fa-whatsapp" style="color: #24bc8a;"></i></a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#"><i class="fa-solid fa-envelope"></i></a>
+  </li>
+</ul>
+    </ul>
+  </div>
+</nav>
 
         <!-- Slider-->
           <!--
