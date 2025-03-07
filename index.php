@@ -57,22 +57,24 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
+    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php"><i class="fa-solid fa-house-user"> </i> Home </a>
+        <a class="nav-link " href="index.php"><i class="fa-solid fa-house-user"> </i> Home </a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="about.php"> <i class="fa-solid fa-address-card"></i> ABOUT US</a>
+        <a class="nav-link " href="about.php"> <i class="fa-solid fa-address-card"></i> ABOUT US</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="Board.php"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+        <a class="nav-link " href="Board.php"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link disabled" href="center.php"> <i class="fa-solid fa-chess-board"></i> SERVICE</a>
+        <a class="nav-link " href="center.php"> <i class="fa-solid fa-chess-board"></i> SERVICE</a>
       </li>
-      <ul class="nav justify-content-end">
+      <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
+        <ul class="navbar-nav text-right">
+      <!--<ul class="nav justify-content-end"> -->
   <li class="nav-item">
-    <a class="nav-link active" href="#"> <i class="fa-brands fa-facebook" style="color: #18578c;"></i></a>
+    <a class="nav-link " href="#"> <i class="fa-brands fa-facebook" style="color: #18578c;"></i></a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#"><i class="fa-brands fa-instagram" style="color: #8e1f30;"></i></a>
@@ -87,6 +89,7 @@
     </ul>
   </div>
 </nav>
+</div>
 
         <!-- Slider-->
           <!--
