@@ -51,7 +51,7 @@
             </div>
             </nav> 
 
-        </div> -->
+        </div> 
         <nav class="navbar navbar-expand-lg navbar-light bg-dark">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -72,7 +72,7 @@
       </li>
       <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
         <ul class="navbar-nav text-right">
-      <!--<ul class="nav justify-content-end"> -->
+      <ul class="nav justify-content-end"> 
   <li class="nav-item">
     <a class="nav-link " href="#"> <i class="fa-brands fa-facebook" style="color: #18578c;"></i></a>
   </li>
@@ -89,7 +89,26 @@
     </ul>
   </div>
 </nav>
+</div> -->
+<!-- Navigator bar -->
+
+<div class="container-fluid bg-warning position-relative shadow">
+  <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0 px-lg-5">
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-start" id="navbarCollapse">
+      <div class="navbar-nav font-weight-bold py-0 text-left">
+        <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
+        <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
+        <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i> ADVISORY BOARD </a>
+        <a href="center.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CENTER </a>
+        
+    </div>
+    </div>
+  </nav>
 </div>
+
 
         <!-- Slider-->
           <!--
@@ -107,13 +126,13 @@
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 H-50" src="p1.jpg" alt="First slide">
+    <img style="width: 1750px; height: 500px;" src="p1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 H-50" src="pizza.jpg" alt="Second slide">
+      <img class="width: 1000px; height: 100px;" src="pizza.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 H-50" src="p3.jpg" alt="Third slide">
+      <img class="width: 1750px; height: 500px;" src="p3.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
