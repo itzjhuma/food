@@ -31,22 +31,32 @@
 
 <!-- Navigator bar -->
 
-<div class="container-fluid bg-dark position-relative shadow ">
-             <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0  px-lg-5">
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between"  id="navbarCollapse">
-                <div class="navbar-nav font-weight-bold mx-auto py-0 text-left">
-                    <a href="index.php"  class="nav-item nav-link "><i class="fa-solid fa-house-user"></i> HOME </a>
-                    <a href="about.php"  class="nav-item nav-link active"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-                    <a href="service.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>SERVICE CARD </a>
-                    <a href="contact.php"  class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
-                </div>
+<div class="container-fluid bg-warning position-relative shadow">
+  <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+  <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
+               
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-start" id="navbarCollapse">
+      <div class="navbar-nav font-weight-bold py-0 text-left">
+        <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
+        <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
+        <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
+        <a href="center.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+        
+    </div>
+    </div>
+    <div class="col-lg-6 px-5 text-end">
+                <small>Follow us:</small>
+                <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
+                <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                <a class="text-body ms-3" href=""><i class="fab fa-instagram"></i></a>
             </div>
-            </nav>
+  </nav>
+</div>
 
-        </div>
 
 <!-- ********* Header *********-->
 <!-- *****Banner ********-->
