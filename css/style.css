@@ -704,8 +704,8 @@ pre code {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: 7px;
-  margin-left: 75px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 .rowbox {
