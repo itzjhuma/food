@@ -127,60 +127,6 @@ BBK delivers both authentic taste of Hyderabadi (Kutchi) and Lucknowi (Pukki) Bi
 <p style="text-align: justify;"> The governing body members of our trust have decided to impart training independently at suitable locations through systematic and planned studies in sync with the technological innovation and continuous change in industrial skill profiles. We always remain vigilant towards the advancement that is taking place in the industries so as to consider the review of our curriculum accordingly. Our motto is to continuously upgrade and update our training according to the need and trends of the industries such that our training courses would be world-class so as to enable our students to get themselves not only placed nationally but internationally as well. </p>
 </div>
 </div>
-<!-- Recent Decision of Our Trust *****-->
-
-<!-- Organisation's Profile *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Organisation's Profile</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;">  Proyash Technical Training Institute, is a further step to impart vocational training in the field Specialised focus on Air-condition, Automobile, Electrical & Electronics, Solar System, Civil, Computer Hardware and Computer software Engineering. From the year 2011 to till date, more than 2500 students are passed out in various courses and 2000+ students got placement in various organisations.
-
-Additionally, we are jointly administrating “George school of law”, Konnagar, Hooghly to impart legal education such as BALLB affiliated to University of Calcutta, LLB affiliated to University of Burdwan and approved by the Bar Council of India. Transforming carrier of students with legal, ethical and cultural development.
-
-Our centres are well located being connected with road transport as well as railway services for easy access to our staff, faculties and students. The institute has the requisite infrastructure and we would keep ourselves vigilant to modernize them at all times. We do have qualified teaching faculties whom we propose to send and visit industries from time to time for upgrading and updating their knowledge and skills such that our students are benefited in turn at all times.</p>
-</div>
-</div>
-<!-- Organisation's Profile *****-->
-
-<!-- Students' Exposure *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Students' Exposure</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;">Besides imparting institutional training, we have proposed to provide scope of exposure in real life situation in industries through industrial visits to some reputed concerns or provide them with short term hands-on-training on some special gadgets, equipment cum machines as available in industries in order to complement their knowledge and skills. Students are also supposed to carry out project work as well.</p>
-</div>
-</div>
-
-<!-- Students' Exposure*****-->
-
-<!-- Provision for training of traditional industrial workers *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Provision for training of traditional industrial workers</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;">Our motto is also to provide training facilities to such people who are working in industries without having any formal training earlier such that they could be benefited by availing systematic practical training along with adequate theory and the knowledge of working with safe practices so that industries would be benefited with their services and accidents could be minimized.</p>
-</div>
-</div>
-<!-- Provision for training of traditional industrial workers *****-->
-
-<!-- Placement cell *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Placement cell</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;">The institute has a placement cell in order to provide placement assistance to our students. Our placement cell remains in constant touch with various concerns for placing our students. We also guide our students those who would like to go for self-employment by setting up of their own entreprise or business by providing necessary guidance to them.</p>
-</div>
-</div>
-<!-- Placement cell *****-->
 
 
 
