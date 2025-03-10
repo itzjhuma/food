@@ -108,7 +108,7 @@
         
     </div>
     </div>
-    <div class="col-lg-6 px-5 text-end">
+    <div class="col-lg-6 px-5 text-right">
                 <small>Follow us:</small>
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
