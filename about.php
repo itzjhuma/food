@@ -42,12 +42,12 @@
       <div class="navbar-nav font-weight-bold py-0 text-left">
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-        <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE CARD</a>
+        <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
         <a href="center.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
         
     </div>
     </div>
-    <div class="col-lg-6 px-5 text-end">
+    <div class="col-lg-6 px-5 text-right">
                 <small>Follow us:</small>
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
@@ -104,32 +104,31 @@ BBK delivers both authentic taste of Hyderabadi (Kutchi) and Lucknowi (Pukki) Bi
 </div>
 </div>
 <!-- Creation of Trust *****-->
+<div class="container">
+    <h3 class="tx-color-#b30077; text-center">iCE-Cream </h3>
+    <div class="row">
+        <div class="col-md-12">
+            <img style='float:left;width:300px;height:320px; margin-right:10px;' src="icecream.jpg" />
+            <p>Lots of text here...With the four tiers of grids available you're bound to run into issues where, at certain breakpoints, your columns don't clear quite right as one is taller than the other. To fix that, use a combination of a .clearfix and o</p>
+        </div>
+    </div>
 
-<!-- Establishment of Our Institute *****-->
+</div>
+
 <div>
 <div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Establishment of Our Institute</strong></h2>
+<h2 style="text-align: center; color: #052049;"><strong>Our Promice</strong></h2>
 </div>
 <div class="container  text-blue">
 
-<p style="text-align: justify;">Our Proyash Educational & Social Trust was established in the year 2009, dully registered on 01.01.2010 and started imparting training on behalf of others at few districts such as Hooghly, Burdwan & Birbhum. Presently Proyash Educational & Social Trust has decided to impart training directly to the concerned students with a view to provide direct placement assistance. </p>
+<p style="text-align: justify;"> 
+ We strictly use premium ingredients like basmati rice specially aged around 2 years, pure spices handpicked from Kerala, and most stringently selected meats & vegetables for the Biryanis & Kebabs..<br><br>
+
+BBK Biryanis Specially cooked on dum, inside the same dough-sealed earthen pot you get delivered, to retain its natural quintessence.<br>
+
+BBK uses world-class technologies, processes & systems to ensure the best quality, standardization & hygiene.</p>
 </div>
 </div>
-<!-- Establishment of Our Institute *****-->
-
-<!-- Recent Decision of Our Trust *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Recent Decision of Our Trust</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;"> The governing body members of our trust have decided to impart training independently at suitable locations through systematic and planned studies in sync with the technological innovation and continuous change in industrial skill profiles. We always remain vigilant towards the advancement that is taking place in the industries so as to consider the review of our curriculum accordingly. Our motto is to continuously upgrade and update our training according to the need and trends of the industries such that our training courses would be world-class so as to enable our students to get themselves not only placed nationally but internationally as well. </p>
-</div>
-</div>
-
-
-
 
 <!-- *************Footer***************-->
 
