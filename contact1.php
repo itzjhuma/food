@@ -45,7 +45,7 @@
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
         <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
-        <a href="center.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+        <a href="contact1.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
         
     </div>
     </div>
@@ -134,7 +134,7 @@
                 <h4 class="mb-2">Office</h4>
                 <p class="mb-2">Please visit us to have a discussion.</p>
                 <hr class="w-50 mb-3 border-dark-subtle">
-                <address class="m-0 text-secondary">8014 Edith Blvd NE, Albuquerque, New York, United States</address>
+                <address class="m-0 text-secondary">8013 Time Place, New Road Street</address>
               </div>
             </div>
             <div class="row mb-sm-4 mb-md-5">
@@ -165,11 +165,11 @@
                   </div>
                   <div>
                     <h4 class="mb-2">Email</h4>
-                    <p class="mb-2">Please write to us directly.</p>
+                    <p class="mb-2">hungerypeople@gamil.com</p>
                     <hr class="w-75 mb-3 border-dark-subtle">
-                    <p class="mb-0">
+                   <!-- <p class="mb-0">
                       <a class="link-secondary text-decoration-none" href="mailto:demo@yourdomain.com">demo@yourdomain.com</a>
-                    </p>
+                    </p>-->
                   </div>
                 </div>
               </div>
@@ -187,11 +187,11 @@
                 <hr class="w-50 mb-3 border-dark-subtle">
                 <div class="d-flex mb-1">
                   <p class="text-secondary fw-bold mb-0 me-5">Mon - Fri</p>
-                  <p class="text-secondary mb-0">9am - 5pm</p>
+                  <p class="text-secondary mb-0">10.30am - 9.00pm</p>
                 </div>
                 <div class="d-flex">
                   <p class="text-secondary fw-bold mb-0 me-5">Sat - Sun</p>
-                  <p class="text-secondary mb-0">9am - 2pm</p>
+                  <p class="text-secondary mb-0">11.00am - 10.00pm</p>
                 </div>
               </div>
             </div>
