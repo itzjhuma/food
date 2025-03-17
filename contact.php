@@ -1,10 +1,40 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="eng">
 <head>
 </head>
 
 <meta charset="utf-8">
 <title>food- about us</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--- Favicon-->
+<!--<link href="img/logo.png" rel="icon">
+
+<!--Google web font-->
+<!--<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=**Quicksand:wght@500**&display=swap" rel="stylesheet">
+
+<!---Font awesome-->
+<!--<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+<script src="https://kit.fontawesome.com/a7612e0a07.js" crossorigin="anonymous"></script>
+
+<!--css stylesheet-->
+<!--<link href="css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/components/contacts/contact-5/assets/css/contact-5.css">
+
+<!--JS stylesheet-->
+<!--<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</head><body>
+<div>-->
+
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+</head>
+
+<meta charset="utf-8">
+<title>food</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--- Favicon-->
 <link href="img/logo.png" rel="icon">
@@ -19,14 +49,17 @@
 
 <!--css stylesheet-->
 <link href="css/style.css" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/components/contacts/contact-5/assets/css/contact-5.css">
+<link href="css/style.min.css" rel="stylesheet">
+
+
+
 
 <!--JS stylesheet-->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </head><body>
 <div>
+  
 <!-- ********* Header *********-->
 
 <?php include ("header.php");?>
@@ -44,8 +77,8 @@
       <div class="navbar-nav font-weight-bold py-0 text-left">
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-        <a href="board.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
-        <a href="center.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
+        <a href="service.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
+        <a href="contact1.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
         
     </div>
     </div>
@@ -58,14 +91,14 @@
             </div>
   </nav>
 </div>
-
 <!-- Contact 5 - Bootstrap Brain Component -->
-<!--<section class="py-3 py-md-5 py-xl-8">
+ 
+<section class="py-3 py-md-5 py-xl-8">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-10 col-lg-8">
         <h3 class="fs-5 mb-2 text-secondary text-uppercase">Contact</h3>
-        <h2 class="display-5 mb-4 mb-md-5 mb-xl-8">We're always on the lookout to work with new clients. Please get in touch in one of the following ways.</h2>
+        <h2 class=" mb-4 mb-md-5 mb-xl-8">We're always on the lookout to work with new clients. Please get in touch in one of the following ways.</h2>
       </div>
     </div>
   </div>
@@ -134,7 +167,7 @@
                 <h4 class="mb-2">Office</h4>
                 <p class="mb-2">Please visit us to have a discussion.</p>
                 <hr class="w-50 mb-3 border-dark-subtle">
-                <address class="m-0 text-secondary">8014 Edith Blvd NE, Albuquerque, New York, United States</address>
+                <address class="m-0 text-secondary">8013 Time Place, New Road Street</address>
               </div>
             </div>
             <div class="row mb-sm-4 mb-md-5">
@@ -165,11 +198,11 @@
                   </div>
                   <div>
                     <h4 class="mb-2">Email</h4>
-                    <p class="mb-2">Please write to us directly.</p>
+                    <p class="mb-2">hungerypeople@gamil.com</p>
                     <hr class="w-75 mb-3 border-dark-subtle">
-                    <p class="mb-0">
+                   <!-- <p class="mb-0">
                       <a class="link-secondary text-decoration-none" href="mailto:demo@yourdomain.com">demo@yourdomain.com</a>
-                    </p>
+                    </p>-->
                   </div>
                 </div>
               </div>
@@ -187,11 +220,11 @@
                 <hr class="w-50 mb-3 border-dark-subtle">
                 <div class="d-flex mb-1">
                   <p class="text-secondary fw-bold mb-0 me-5">Mon - Fri</p>
-                  <p class="text-secondary mb-0">9am - 5pm</p>
+                  <p class="text-secondary mb-0">10.30am - 9.00pm</p>
                 </div>
                 <div class="d-flex">
                   <p class="text-secondary fw-bold mb-0 me-5">Sat - Sun</p>
-                  <p class="text-secondary mb-0">9am - 2pm</p>
+                  <p class="text-secondary mb-0">11.00am - 10.00pm</p>
                 </div>
               </div>
             </div>
@@ -200,81 +233,7 @@
       </div>
     </div>
   </div>
-</section>-->
-
-
-
- <!-- contact page -->
- <section class="contact py-5" id="contact">
-            <div class="container py-md-5 py-4 mb-5">
-                <div class="mx-auto" style="max-width:100%">
-                    <div class="row ">
-                        <div class="col-md-5 ">
-                            <h3 class="font-weight-bold mb-md-5 mb-4">Get in touch with us</h3>
-                           <div class="cont-details">
-                               
-                                <div class="d-flex contact-grid mt-4 pt-lg-2">
-                                <div class="cont-left text-center mr-3">
-                                    <span class="fa fa-phone"></span>
-                                </div>
-                                <div class="cont-right">
-                                    <h6>Call Us</h6>
-                                    <p><a href="tel:+91 9932069297">+91 9932069297</a></p>
-                                </div>
-                            </div>
-                            <div class="d-flex contact-grid mt-4 pt-lg-2">
-                                <div class="cont-left text-center mr-3">
-                                    <span class="fa fa-envelope-open"></span>
-                                </div>
-                                <div class="cont-right">
-                                    <h6>Email Us</h6>
-                                    <p><a href="mailto:info@proyash.com" class="mail">info@proyash.org.in</a></p>
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                        <div class="col-md-7 mt-md-0 mt-4">
-                            <div class="map-iframe">
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58892.3399105637!2d88.29362489256499!3d22.69955813997336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89c9c605b6925%3A0x2b3aa44494f17d5a!2sKonnagar%2C%20Mirpur%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1632229451148!5m2!1sen!2sin"
-                                    width="100%" height="400" frameborder="0" allowfullscreen=""></iframe>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- contact form -->
-                    <div class="contact-form-sec pt-5 mt-md-5">
-                        <div class="title-heading-w3 text-center mx-auto mb-5 pb-sm-4">
-                            <h3 class="title-main">We will Answer all your <span>Questions</span></h3>
-                        </div>
-                        <div class="row contact-block align-items-center">
-                            <div class="col-md-5 contact-left">
-                                <img src="img/contact.jpg" alt="" class="img-fluid img-responsive">
-                            </div>
-                            <div class="col-md-7 contact-right mt-md-0 mt-4 pl-lg-4">
-                                <form action="https://sendmail.w3layouts.com/submitForm" method="post"
-                                    class="signin-form">
-                                    <div class="input-grids">
-                                        <input type="text" name="w3lName" id="w3lName" placeholder="Your Name*"
-                                            class="contact-input" required="" />
-                                        <input type="email" name="w3lSender" id="w3lSender" placeholder="Your Email*"
-                                            class="contact-input" required="" />
-                                        <input type="text" name="w3lSubect" id="w3lSubect" placeholder="Subject*"
-                                            class="contact-input" required="" />
-                                    </div>
-                                    <div class="form-input">
-                                        <textarea name="w3lMessage" id="w3lMessage"
-                                            placeholder="Type your message here*" required=""></textarea>
-                                    </div>
-                                    <button class="btn btn-style btn-style-secondary mt-sm-3 text-white">Send
-                                        Message</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- //contact form -->
-                </div>
-            </div>
-                                </section>
+</section>
 
 <!-- *************Footer***************-->
 
