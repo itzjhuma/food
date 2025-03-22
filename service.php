@@ -48,6 +48,8 @@
         
     </div>
     </div>
+   
+
     <div class="col-lg-6 px-5 text-right">
                 <small>Follow us:</small>
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
@@ -57,9 +59,6 @@
             </div>
   </nav>
 </div>
-
-
-
 <section class="py-5 py-xl-8">
   <div class="container">
     <div class="row justify-content-md-center">
@@ -83,6 +82,21 @@
           <p class="m-0 text-secondary">On our Food Delivery marketplace, users can conveniently search and discover multiple restaurant listings, browse their menus, place food orders, pay seamlessly, and track order deliveries. These orders are received and prepared by our restaurant partners and delivered to users through the large fleet of delivery partners on our platform.</p>
         </div>
       </div>
+    
+      <div class="bg-image ripple" data-mdb-ripple-color="light">
+  <img src="" class="w-100" />
+  <a href="#!">
+    <div class="mask" style="background-color: hsla(0, 0%, 0%, 0.4)">
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <p class="text-white mb-0">Can you see me?</p>
+      </div>
+    </div>
+    <div class="hover-overlay">
+      <div class="mask" style="background-color: hsla(0, 0%, 98.4%, 0.2)"></div>
+    </div>
+  </a>
+</div>
+
 
       <div class="col-12 col-sm-6 col-lg-4">
         <div class="text-center px-xl-2">
