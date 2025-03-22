@@ -4,7 +4,7 @@
 </head>
 
 <meta charset="utf-8">
-<title>food</title>
+<title>rice</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--- Favicon-->
 <link href="img/logo.png" rel="icon">
@@ -100,10 +100,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-start" id="navbarCollapse">
-      <div class="navbar-nav font-weight-bold py-0 text-left">
+      <div class="navbar-nav font-weight-bold py-0 text-center">
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-        <a href="service.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
+        <a href="our portfolio.php" class="nav-item nav-link"><i class="fa-solid fa-circle-user"></i> Our Portfolio</a>
+        <a href="explore.php" class="nav-item nav-link"><i class="fa-solid fa-bowl-rice"></i>Explore Rice </a>
+        <a href="csr.php" class="nav-item nav-link"><i class="fa-solid fa-truck"></i>CSR</a>
         <a href="contact.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
         
     </div>
@@ -135,13 +137,13 @@
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img style="width: 1530px; height: 450px;" src="briyani.jpg" alt="First slide">
+    <img style="width: 1530px; height: 450px;" src="krbl.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img style="width: 1530px; height: 450px;" src="p1.jpg" alt="Second slide">
+      <img style="width: 1530px; height: 450px;" src="truck.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img style="width: 1530px; height: 450px;" src="rice.jpg" alt="Third slide">
+      <img style="width: 1530px; height: 450px;" src="high-end.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

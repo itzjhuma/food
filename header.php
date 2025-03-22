@@ -4,7 +4,7 @@
       <div class="container-fluid p-5 my-5 bg-primary text-blue">
 
                <center><img src="trlogo.png" style="width:150px; height:110px; " alt="centered logo1"></center>
-                <h3 class="mx-5  text-center">HUNGERY PEOPLE</h3>
+                <h3 class="mx-5  text-center">KRBL (Limited) </h3>
                 <!--<a href="#"  class="nav-item nav-link text-blue"><i class="fa-brands fa-square-instagram"></i></a>
                 <a href="=+919932069297"  class="nav-item nav-link text-blue"><i class="fa-brands fa-square-whatsapp"></i></a>-->
                 <div class="container-fluid ">
