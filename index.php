@@ -23,8 +23,17 @@
 <!--JS stylesheet-->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
-</head><body>
+
+<!---*********Bootstrap image round******
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>-->
+
+  </head>
+  <body>
 <div>
+
     <!-- ********* Header *********-->
 
 <?php include ("header.php");?>
@@ -93,7 +102,7 @@
 <!-- Navigator bar -->
 
 <div class="container-fluid bg-warning position-relative shadow">
-  <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+  <nav class="navbar navbar-expand-lg bg-dark py-5 py-lg-0 px-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
   <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
                
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -115,7 +124,7 @@
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                <a class="text-body ms-3" href=""><i class="fab fa-instagram"></i></a>
+                <a class="text-body ms-3" href=""><i class="fa-solid fa-magnifying-glass"></i>
             </div>
   </nav>
 </div>
@@ -154,6 +163,13 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
+
+
+<div class="container">
+  <h5>About us</h5>
+  <p>The .rounded-circle class shapes the image to a circle:</p>            
+  <img src="earth.jpg" class="rounded-circle" alt="Cinque Terre" width="304" height="300"> 
 </div>
 
   <!-- *************Footer***************-->
