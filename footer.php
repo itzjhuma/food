@@ -50,11 +50,12 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Company name
+            <i class="fas fa-gem me-3"></i>About us
           </h6>
           <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
+            With a 130 year hearitage and an existence since
+            1889, KRBL Ltd.is India's first integrated rice
+            company with a comprehensive product chain.
           </p>
         </div>
         <!-- Grid column -->
@@ -84,20 +85,14 @@
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
-            Useful links
+            Quick Links
           </h6>
-          <p>
-            <a href="#!" class="text-reset">Pricing</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Settings</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Orders</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Help</a>
-          </p>
+        <a href="index.php" class="nav-item nav-link active text-reset"> HOME </a>
+        <a href="about.php" class="nav-item nav-link text-reset"> ABOUT US </a>
+        <a href="our portfolio.php" class="nav-item nav-link text-reset"> Our Portfolio</a>
+        <a href="explore.php" class="nav-item nav-link text-reset"></i>Explore Rice </a>
+        <a href="csr.php" class="nav-item nav-link text-reset">CSR</a>
+        <a href="contact.php" class="nav-item nav-link text-reset"> CONTACT US </a>
         </div>
         <!-- Grid column -->
 
@@ -105,7 +100,7 @@
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+          <p><i class="fas fa-home me-3"></i> BC Road, NT 10012, US</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
             info@example.com
@@ -123,7 +118,7 @@
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">info@example.com</a>
   </div>
   <!-- Copyright -->
 </footer>
