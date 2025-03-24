@@ -40,9 +40,12 @@
     </button>
     <div class="collapse navbar-collapse justify-content-start" id="navbarCollapse">
       <div class="navbar-nav font-weight-bold py-0 text-left">
+      <div class="navbar-nav font-weight-bold py-0 text-center">
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-        <a href="service.php" class="nav-item nav-link"><i class="fa-solid fa-chess-board"></i>  SERVICE TYPE</a>
+        <a href="our portfolio.php" class="nav-item nav-link"><i class="fa-solid fa-circle-user"></i> Our Portfolio</a>
+        <a href="explore.php" class="nav-item nav-link"><i class="fa-solid fa-bowl-rice"></i>Explore Rice </a>
+        <a href="csr.php" class="nav-item nav-link"><i class="fa-solid fa-truck"></i>CSR</a>
         <a href="contact.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
         
     </div>

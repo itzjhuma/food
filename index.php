@@ -165,7 +165,7 @@
   </a>
 </div>
 
-
+<!-- *************About us***************-->
 <div class="container">
   <h5>About us</h5>
   <p>The .rounded-circle class shapes the image to a circle:</p>            
