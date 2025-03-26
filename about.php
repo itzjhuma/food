@@ -19,6 +19,7 @@
 
 <!--css stylesheet-->
 <link href="css/style.css" rel="stylesheet">
+<link href="css/min.css" rel="stylesheet">
 
 <!--JS stylesheet-->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -31,7 +32,7 @@
 
 <!-- Navigator bar -->
 
-<div class="container-fluid bg-warning position-relative shadow">
+<div class="container-fluid bg-dark position-relative shadow">
   <nav class="navbar navbar-expand-lg navbar-dark py-5 py-lg-0 px-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
   <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
                
@@ -39,7 +40,6 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-start" id="navbarCollapse">
-      <div class="navbar-nav font-weight-bold py-0 text-left">
       <div class="navbar-nav font-weight-bold py-0 text-center">
         <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
         <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
@@ -50,94 +50,62 @@
         
     </div>
     </div>
+
+  <!-- Social media icons -->
     <div class="col-lg-6 px-5 text-right">
                 <small>Follow us:</small>
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                <a class="text-body ms-3" href=""><i class="fab fa-instagram"></i></a>
+                <a class="text-body ms-3" href=""><i class="fa-solid fa-magnifying-glass"></i>
             </div>
+  
   </nav>
 </div>
 
 
-<!-- ********* Header *********-->
-<!-- *****Banner ********-->
-<div class="title-heading-w3 text-center mx-auto my-4 mb-5 pb-sm-4">
-<h3 class="title-main"><span>Our Vision Your Trust</span></h3>
-</div>
-<div class="container  my-2 ">
-<img class="img-round-all" src="briyani.jpg" alt="about us" style="width: 100%; height: 300px">
-</div>
-
-<!-- *****Banner ********-->
-
-<!-- Background Info *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Delivering a royal feast to your doorsteps</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;"><b>BBK</b> – India’s most loved Biryani & Kebab delivery chain since <b>2015.</b><br>
-
-
-Being the Pioneers of delivering Fresh Dum-Cooked Handi Biryanis across the country, Biryani By Kilo takes customer experience up a notch with unique and authentic shaahi andaaz of serving handis of melting flavors. The first ones to introduce ‘handi biryani’ concept and deliver freshly prepared biryani for individual orders.<br><br>
-
-
-With the presence of 70+ royal dine-in outlets pan India, we have spread arms across 29+ cities - Delhi NCR, Mumbai, Pune, Lucknow, Kolkata, Punjab, Jaipur, Bhubaneswar, Patna, Ranchi,Guwahati, Jamshedpur, Goa & Bangalore, reviving the royal traditions in the hearts of India. Also, we deliver to your doorstep online in 70-90 minutes, after cooking it with time, effort and elegance.
-
- </p>
-</div>
-</div>
-<!-- Background Info *****-->
-
-<!-- Creation of Trust *****-->
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Our Mission</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;"> Reviving the essence of dum cooking in organic handis with epic flavors of India- Hyderabadi, Lucknowi, Kolkata, Guntur, and Nilgiri Biryani, Melt-in-mouth Kababs, Lazeez Kormas, Dal Makhani, Phirni & much more; we embellish a royal feast experience to our guests.<br><br>
-
-BBK delivers both authentic taste of Hyderabadi (Kutchi) and Lucknowi (Pukki) Biryani prepared in individual earthen Handis with the freshest ingredients.
-
- </p>
-</div>
-</div>
-<!-- Creation of Trust *****-->
-<div class="container">
-    <h3 class="tx-color-#b30077; text-center">iCE-Cream </h3>
-    <div class="row">
-        <div class="col-md-12">
-            <img style='float:left;width:300px;height:320px; margin-right:10px;' src="icecream.jpg" />
-            <p>Lots of text here...With the four tiers of grids available you're bound to run into issues where, at certain breakpoints, your columns don't clear quite right as one is taller than the other. To fix that, use a combination of a .clearfix and o</p>
-        </div>
+<!-- About 3 - Bootstrap Brain Component -->
+<section class="py-3 py-md-5">
+  <div class="container mb-4 mb-md-5">
+    <div class="row justify-content-md-center">
+      <div class="col-12 col-md-10 col-xxl-8">
+        <img class="img-fluid rounded shadow" loading="lazy" src="creating-growth.jpg" alt="About 3">
+      </div>
     </div>
+  </div>
 
-</div>
-
-<div>
-<div class="my-4 " >
-<h2 style="text-align: center; color: #052049;"><strong>Our Promice</strong></h2>
-</div>
-<div class="container  text-blue">
-
-<p style="text-align: justify;"> 
- We strictly use premium ingredients like basmati rice specially aged around 2 years, pure spices handpicked from Kerala, and most stringently selected meats & vegetables for the Biryanis & Kebabs..<br><br>
-
-BBK Biryanis Specially cooked on dum, inside the same dough-sealed earthen pot you get delivered, to retain its natural quintessence.<br>
-
-BBK uses world-class technologies, processes & systems to ensure the best quality, standardization & hygiene.</p>
-</div>
-</div>
+  <div class="container overflow-hidden">
+    <div class="row gy-2 gy-md-0 justify-content-xxl-center">
+      <div class="col-12 order-md-1 col-md-8 col-xxl-6">
+        <div class="text-center text-md-start">
+          <h2 class="display-3 fw-bold lh-1">Lucas Henry</h2>
+          <p class="text-secondary fs-4 mb-2">UX/UI Designer</p>
+          <hr class="w-25 mx-auto ms-md-0 mb-4 text-secondary">
+          <p>I am a UX/UI designer with a passion for creating user-centric digital experiences that are both beautiful and functional. I have over 12 years of experience in the industry, and I have worked on a wide range of projects, from small startups to large enterprises.</p>
+          <p>I believe that the best designs are those that are based on a deep understanding of the user's needs and goals. I start every project by conducting thorough user research to learn about the user's pain points, motivations, and expectations. I then use this information to create designs that are both easy to use and enjoyable.</p>
+        </div>
+      </div>
+      <div class="col-12 order-md-0 col-md-4 col-xxl-4">
+        <div class="text-center text-md-start me-md-3 me-xl-5">
+          <p class="mb-4">
+            <span class="d-block display-6 lh-1">12+</span>
+            <span class="fs-4 text-secondary">years of experience</span>
+          </p>
+          <div class="d-grid">
+            <button class="btn btn-primary btn-lg" type="button">Hire Me</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- *************Footer***************-->
 
 <?php include ("footer.php");?>
 
-<!-- *************Footer***************-->
+
+
 </div>
 </body>
 </html>
