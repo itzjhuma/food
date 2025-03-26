@@ -42,7 +42,7 @@
         <div class="navbar-nav font-weight-bold py-0 text-center">
           <a href="index.php" class="nav-item nav-link active"><i class="fa-solid fa-house-user"></i> HOME </a>
           <a href="about.php" class="nav-item nav-link"><i class="fa-solid fa-address-card"></i> ABOUT US </a>
-          <a href="our portfolio.php" class="nav-item nav-link"><i class="fa-solid fa-circle-user"></i> Our Portfolio</a>
+          <a href="portfolio.php" class="nav-item nav-link"><i class="fa-solid fa-circle-user"></i> Our Portfolio</a>
           <a href="explore.php" class="nav-item nav-link"><i class="fa-solid fa-bowl-rice"></i>Explore Rice </a>
           <a href="csr.php" class="nav-item nav-link"><i class="fa-solid fa-truck"></i>CSR</a>
           <a href="contact.php" class="nav-item nav-link"><i class="fa-brands fa-centercode"></i> CONTACT US </a>
@@ -61,4 +61,50 @@
     
     </nav>
   </div>
+
+<!-- About 3 - Bootstrap Brain Component -->
+<section class="py-3 py-md-5">
+  <div class="container mb-4 mb-md-5">
+    <div class="row justify-content-md-center">
+      <div class="col-12 col-md-10 col-xxl-8">
+        <img class="img-fluid rounded shadow" loading="lazy" src="range.jpg" alt="About 3">
+      </div>
+    </div>
+  </div>
+
+  <div class="container overflow-hidden">
+    <div class="row gy-2 gy-md-0 justify-content-xxl-center">
+      <div class="col-12 order-md-1 col-md-8 col-xxl-6">
+        <div class="text-center text-md-start">
+          <h2 class="display-3 fw-bold lh-1">Lucas Henry</h2>
+          <p class="text-secondary fs-4 mb-2">UX/UI Designer</p>
+          <hr class="w-25 mx-auto ms-md-0 mb-4 text-secondary">
+          <p>I am a UX/UI designer with a passion for creating user-centric digital experiences that are both beautiful and functional. I have over 12 years of experience in the industry, and I have worked on a wide range of projects, from small startups to large enterprises.</p>
+          <p>I believe that the best designs are those that are based on a deep understanding of the user's needs and goals. I start every project by conducting thorough user research to learn about the user's pain points, motivations, and expectations. I then use this information to create designs that are both easy to use and enjoyable.</p>
+        </div>
+      </div>
+      <div class="col-12 order-md-0 col-md-4 col-xxl-4">
+        <div class="text-center text-md-start me-md-3 me-xl-5">
+          <p class="mb-4">
+            <span class="d-block display-6 lh-1">12+</span>
+            <span class="fs-4 text-secondary">years of experience</span>
+          </p>
+          <div class="d-grid">
+            <button class="btn btn-primary btn-lg" type="button">Hire Me</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   
+
+  <!-- *************Footer***************-->
+
+<?php include ("footer.php");?>
+
+
+
+</div>
+</body>
+</html>
